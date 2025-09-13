@@ -1,6 +1,3 @@
-Here’s a polished and professional **README.md** for your project **QueryAI – AI Powered Multi-Source Knowledge Assistant**:
-
-````markdown
 # QueryAI - AI Powered Multi-Source Knowledge Assistant
 
 QueryAI is a cutting-edge AI application that allows users to interactively query and gain insights from multiple data sources, including PDFs and websites. By leveraging advanced embeddings and retrieval-augmented generation (RAG), QueryAI provides accurate, context-aware responses to user queries in real-time.
@@ -85,8 +82,4 @@ streamlit run app.py
 ## 🔗 License
 
 This project is licensed under the MIT License.
-
-```
-
----
 
