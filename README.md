@@ -34,6 +34,12 @@ QueryAI is a cutting-edge AI application that allows users to interactively quer
 
 ---
 
+### 🏗️ Architecture Diagram
+
+![QueryAI Architecture](docs/Architecture_Diagram.png)
+
+---
+
 ## ⚡ Key Highlights
 
 1. **Multi-Source Knowledge Retrieval:** Process and query multiple documents and websites simultaneously for enriched responses.
@@ -46,7 +52,7 @@ QueryAI is a cutting-edge AI application that allows users to interactively quer
 
 1. Clone the repository:  
 ```bash
-git clone <repository-url>
+git clone https://github.com/jayeshgit65/QueryAI-AI-Powered-Multi-Source-Knowledge-Assistant
 cd QueryAI
 ````
 

@@ -7,3 +7,4 @@ langchain-google-genai
 faiss-cpu
 PyPDF2
 sentence-transformers
+beautifulsoup4
